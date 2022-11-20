@@ -4,6 +4,10 @@
   "description": "For HTML, CSS, JS, PHP, SQL, PYTHON",
   "version": "0.0.1",
   "homepage": "https://github.com/Zyrass/zyrass_dark_theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zyrass/zyrass_dark_theme"
+  },  
   "engines": {
     "vscode": "^1.73.0"
   },
