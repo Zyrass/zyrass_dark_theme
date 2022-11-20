@@ -1,0 +1,22 @@
+{
+  "name": "zyrass-theme",
+  "displayName": "zyrass_theme",
+  "description": "For HTML, CSS, JS, PHP, SQL, PYTHON",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "zyrass_dark_theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zyrass_dark_theme-color-theme.json"
+      }
+    ]
+  },
+  "author": "Zyrass alias Alain Guillon"
+}
